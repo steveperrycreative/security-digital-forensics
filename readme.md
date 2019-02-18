@@ -2,5 +2,5 @@
 
 ## Cheatsheets
 
-- [hash, mount, losetup, snapshot](/cheatsheets/various.md)
+- [hash, mount, losetup, snapshot](/cheatsheets/various-tools.md)
 - [regripper](/cheatsheets/regripper.md)
